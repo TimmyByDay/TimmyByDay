@@ -5,7 +5,7 @@
 - Probably learning something new ${\color{#808080}}$
 - Probably sharpening a skill
 
-**Languages:** I'll let the requirements comment on this.
+**Languages:** I'll let the requirements decide.
 
 **Frameworks & Tools:** Usually the ones that make logical sense.
 
