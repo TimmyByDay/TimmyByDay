@@ -18,7 +18,7 @@
 
 ### Let’s Connect:
 
-- Twitter/X: [@TimByDay](https://twitter.com/TimByDay)
+- Twitter/X: [@TimByNight](https://x.com/TimByNight)
 - Website: [NullStasis.com](https://nullstasis.com)
 
 <!--![TimmyByDay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TimmyByDay&theme=merko&hide_border=true)-->
