@@ -5,9 +5,6 @@
 - Probably learning something new ${\color{#808080}}$
 - Probably sharpening a skill
 
-
-### Who
-
 - **Languages:** I'll let the requirements comment on this.
 - **Frameworks & Tools:** Usually the ones that make logical sense.
 
