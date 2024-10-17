@@ -21,4 +21,4 @@
 - Twitter/X: [@TimByDay](https://twitter.com/TimByDay)
 - Website: [NullStasis.com](https://nullstasis.com)
 
-![TimmyByDay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TimmyByDay&theme=merko&hide_border=true)
+<!--![TimmyByDay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TimmyByDay&theme=merko&hide_border=true)-->
