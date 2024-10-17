@@ -5,15 +5,16 @@
 - Probably learning something new ${\color{#808080}}$
 - Probably sharpening a skill
 
-- **Languages:** I'll let the requirements comment on this.
-- **Frameworks & Tools:** Usually the ones that make logical sense.
+**Languages:** I'll let the requirements comment on this.
+
+**Frameworks & Tools:** Usually the ones that make logical sense.
 
 
 ### Current Focus:
 
 - Software Development, web development, and growth
 - Building my portfolio at [NullStasis.com](https://nullstasis.com)
-- Writing, coding, and sharing knowledge through my blog at [NullStasis.com/blog](https://nullstasis.com/blog)
+- Writing code, working on projects, and sharing tech opinions on my blog [NullStasis.com/blog](https://nullstasis.com/blog)
 
 ### Let’s Connect:
 
