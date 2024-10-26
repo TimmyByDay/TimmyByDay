@@ -2,7 +2,7 @@
 ### About
 - Software Engineer ${\color{#808080}}$
 - Probably crafting something ${\color{#808080}}$
-- Probably learning something new ${\color{#808080}}$
+- Probably learning something ${\color{#808080}}$
 - Probably sharpening a skill
 
 **Languages:** I'll let the requirements decide.
