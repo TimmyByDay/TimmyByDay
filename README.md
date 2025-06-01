@@ -1,8 +1,8 @@
 
 ### About
-- Software Engineer ${\color{#808080}}$
-- Probably crafting something ${\color{#808080}}$
-- Probably learning something ${\color{#808080}}$
+- Software Engineer
+- Probably crafting something
+- Probably learning something
 - Probably sharpening a skill
 
 **Languages:** I'll let the requirements decide.
