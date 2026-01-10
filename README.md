@@ -1,6 +1,5 @@
 ## About me
-I'm Software devotee that loves exploring software solutions, that \
-shares a profound interest in UI tools and the advancement thereof.
+I’m a software enthusiast passionate about software solutions, UI tools, and their advancement.
 
 ### Planning and Building:
 - [ZigImgFX](https://github.com/TimmyByDay/zigimgfx)
