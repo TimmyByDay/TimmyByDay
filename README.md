@@ -1,5 +1,5 @@
 ## About me
-I Software devotee that loves exploring software solutions, that \
+I'm Software devotee that loves exploring software solutions, that \
 shares a profound interest in UI tools and the advancement thereof.
 
 ### Planning and Building:
