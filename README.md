@@ -5,6 +5,7 @@ I’m a software enthusiast passionate about software solutions, UI tools, and t
 - [ZigImgFX](https://github.com/TimmyByDay/zigimgfx)
 
 ### Contributing
+- [ProtegeDesk](https://github.com/aadorian/ProtegeDesk/tree/main)
 - [YamadaUI](https://github.com/yamada-ui/yamada-ui)
 
 #### Preferred Programming Languages
